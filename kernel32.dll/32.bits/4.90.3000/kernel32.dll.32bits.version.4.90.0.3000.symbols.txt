@@ -1,0 +1,899 @@
+Contents of kernel32.dll: 536576 bytes
+
+Exports table:
+
+  Name:            KERNEL32.dll
+  Characteristics: 00000000
+  TimeDateStamp:   393F3C02 Thu Jun  8 01:24:02 2000
+  Version:         0.00
+  Ordinal base:    1
+  # of functions:  881
+  # of Names:      760
+Addresses of functions: 00051EE8
+Addresses of name ordinals: 0005388C
+Addresses of names: 00052CAC
+
+  Entry Pt  Ordn  Name
+  000013D4     1 <by ordinal>
+  000013D4     2 <by ordinal>
+  000013D4     3 <by ordinal>
+  000013D4     4 <by ordinal>
+  000013D4     5 <by ordinal>
+  000013D4     6 <by ordinal>
+  000013D4     7 <by ordinal>
+  000013D4     8 <by ordinal>
+  000013D4     9 <by ordinal>
+  000145A2    10 <by ordinal>
+  00021C86    11 <by ordinal>
+  00011A51    12 <by ordinal>
+  0001FBBD    13 <by ordinal>
+  00010D73    14 <by ordinal>
+  0000C6D7    15 <by ordinal>
+  0003BC39    16 <by ordinal>
+  00001319    17 <by ordinal>
+  0000E673    18 <by ordinal>
+  0002FC43    19 <by ordinal>
+  0002D556    20 <by ordinal>
+  0002D5B4    21 <by ordinal>
+  0002D58E    22 <by ordinal>
+  00023043    23 <by ordinal>
+  0002B68C    24 <by ordinal>
+  0002B96A    25 <by ordinal>
+  0002BA2A    26 <by ordinal>
+  0002B57B    27 <by ordinal>
+  0002B57F    28 <by ordinal>
+  0002B583    29 <by ordinal>
+  0002B587    30 <by ordinal>
+  0002B9CB    31 <by ordinal>
+  0002B6CE    32 <by ordinal>
+  000048EE    33 <by ordinal>
+  00029D11    34 <by ordinal>
+  0002B98E    35 <by ordinal>
+  0002B577    36 <by ordinal>
+  0002B59E    37 <by ordinal>
+  00001F74    38 <by ordinal>
+  00001FAB    39 <by ordinal>
+  000016A4    40 <by ordinal>
+  0000157A    41 <by ordinal>
+  000016A1    42 <by ordinal>
+  0000155D    43 <by ordinal>
+  0000169E    44 <by ordinal>
+  00001414    45 <by ordinal>
+  00001639    46 <by ordinal>
+  0000169B    47 <by ordinal>
+  000021C5    48 <by ordinal>
+  000021EE    49 <by ordinal>
+  00031C6B    50 AddAtomA
+  000022D2    51 <by ordinal>
+  0003CFA0    52 <by ordinal>
+  0003CFD9    53 <by ordinal>
+  00023E41    54 <by ordinal>
+  00023E73    55 <by ordinal>
+  000036F7    56 <by ordinal>
+  0002FC76    57 <by ordinal>
+  0002FCBF    58 <by ordinal>
+  0002B3D4    59 <by ordinal>
+  0002B405    60 <by ordinal>
+  0002B952    61 <by ordinal>
+  0002B3EE    62 <by ordinal>
+  0002B423    63 <by ordinal>
+  0002B44F    64 <by ordinal>
+  0002B465    65 <by ordinal>
+  0002BAE9    66 <by ordinal>
+  0002BB30    67 <by ordinal>
+  00002220    68 <by ordinal>
+  0000227C    69 <by ordinal>
+  0000376D    70 <by ordinal>
+  000260E0    71 <by ordinal>
+  00006A24    72 <by ordinal>
+  00006A38    73 <by ordinal>
+  0002F3E0    74 <by ordinal>
+  0002F3EC    75 <by ordinal>
+  0002F40C    76 <by ordinal>
+  00006A44    77 <by ordinal>
+  00006AD4    78 <by ordinal>
+  0002F45C    79 <by ordinal>
+  0002F484    80 <by ordinal>
+  0002F4AC    81 <by ordinal>
+  0002F4D8    82 <by ordinal>
+  00006B2C    83 <by ordinal>
+  0002F4EC    84 <by ordinal>
+  0002F4F4    85 <by ordinal>
+  00004279    86 <by ordinal>
+  0002E64C    87 <by ordinal>
+  0002E68C    88 <by ordinal>
+  000025C8    89 <by ordinal>
+  00002717    90 <by ordinal>
+  0002BB06    91 <by ordinal>
+  00021909    92 <by ordinal>
+  0001EA17    93 <by ordinal>
+  00043E97    94 <by ordinal>
+  00043E71    95 <by ordinal>
+  00043E74    96 <by ordinal>
+  0000418C    97 <by ordinal>
+  000041C5    98 <by ordinal>
+  0001E6EC    99 <by ordinal>
+  00022683   100 <by ordinal>
+  0002D07E   101 <by ordinal>
+  0002E8D0   102 <by ordinal>
+  0002E937   103 <by ordinal>
+  00001831   104 <by ordinal>
+  000442C1   105 <by ordinal>
+  00044156   106 <by ordinal>
+  000440E8   107 <by ordinal>
+  00044471   108 <by ordinal>
+  000444EB   109 <by ordinal>
+  000444BD   110 <by ordinal>
+  00044497   111 <by ordinal>
+  000444AA   112 <by ordinal>
+  00044484   113 <by ordinal>
+  000444FE   114 <by ordinal>
+  00044511   115 <by ordinal>
+  000444D4   116 <by ordinal>
+  00044217   117 <by ordinal>
+  00039ACD   118 AddAtomW
+  00044264   119 <by ordinal>
+  000237EC   120 <by ordinal>
+  00002EBC   121 <by ordinal>
+  00027377   122 <by ordinal>
+  0003B66E   123 <by ordinal>
+  00033930   124 AllocConsole
+  00023AEE   125 AllocLSCallback
+  00023B21   126 AllocSLCallback
+  00032C6E   127 AreFileApisANSI
+  00039B5D   128 BackupRead
+  00039B42   129 BackupSeek
+  00039B5D   130 BackupWrite
+  0002F503   131 Beep
+  00039AE8   132 BeginUpdateResourceA
+  00039AE8   133 BeginUpdateResourceW
+  000321B9   134 BuildCommDCBA
+  000321E4   135 BuildCommDCBAndTimeoutsA
+  00039B03   136 BuildCommDCBAndTimeoutsW
+  00039AE8   137 BuildCommDCBW
+  000320E0   138 CallNamedPipeA
+  00039B5D   139 CallNamedPipeW
+  00023951   140 Callback12
+  0002395E   141 Callback16
+  0002396B   142 Callback20
+  00023978   143 Callback24
+  00023985   144 Callback28
+  00023992   145 Callback32
+  0002399F   146 Callback36
+  000239AC   147 Callback40
+  000239B9   148 Callback44
+  000239C6   149 Callback48
+  00023938   150 Callback4
+  000239D3   151 Callback52
+  000239E0   152 Callback56
+  000239ED   153 Callback60
+  000239FA   154 Callback64
+  00023944   155 Callback8
+  0002F870   156 CancelDeviceWakeupRequest
+  0002CEC0   157 CancelIo
+  0002A008   158 CancelWaitableTimer
+  0003800A   159 ClearCommBreak
+  0003141B   160 ClearCommError
+  0000E1F6   161 CloseHandle
+  00039AC4   162 CloseProfileUserMapping
+  0002A2E0   163 CloseSystemHandle
+  00038AFE   164 CommConfigDialogA
+  00039B03   165 CommConfigDialogW
+  000071CF   166 CompareFileTime
+  000322C8   167 CompareStringA
+  00039B42   168 CompareStringW
+  00039AE8   169 ConnectNamedPipe
+  00024CCC   170 ContinueDebugEvent
+  00044696   171 ConvertDefaultLocale
+  0002627F   172 ConvertThreadToFiber
+  00014D75   173 ConvertToGlobalHandle
+  00032068   174 CopyFileA
+  00039B42   175 CopyFileExA
+  00039B42   176 CopyFileExW
+  00039B03   177 CopyFileW
+  000330B1   178 CreateConsoleScreenBuffer
+  00007F3F   179 CreateDirectoryA
+  00031F77   180 CreateDirectoryExA
+  00039B03   181 CreateDirectoryExW
+  00039AE8   182 CreateDirectoryW
+  00007568   183 CreateEventA
+  00039B1E   184 CreateEventW
+  00026182   185 CreateFiber
+  00007AB3   186 CreateFileA
+  00007672   187 CreateFileMappingA
+  00039B42   188 CreateFileMappingW
+  00039B5D   189 CreateFileW
+  00039B1E   190 CreateIoCompletionPort
+  00031167   191 CreateKernelThread
+  0000722A   192 CreateMailslotA
+  00039B1E   193 CreateMailslotW
+  00007532   194 CreateMutexA
+  00039B03   195 CreateMutexW
+  00039B6F   196 CreateNamedPipeA
+  00039B6F   197 CreateNamedPipeW
+  00031658   198 CreatePipe
+  00007719   199 CreateProcessA
+  00039B78   200 CreateProcessW
+  00039B5D   201 CreateRemoteThread
+  000075C5   202 CreateSemaphoreA
+  00039B1E   203 CreateSemaphoreW
+  00036854   204 CreateSocketHandle
+  00039B27   205 CreateTapePartition
+  00006F3E   206 CreateThread
+  0003C4E5   207 CreateToolhelp32Snapshot
+  000075F0   208 CreateWaitableTimerA
+  00039B42   209 CreateWaitableTimerW
+  00024D6F   210 DebugActiveProcess
+  00006878   211 DebugBreak
+  00031FD4   212 DefineDosDeviceA
+  00039B03   213 DefineDosDeviceW
+  0002B9BB   214 DeleteAtom
+  0001B07B   215 DeleteCriticalSection
+  0002624B   216 DeleteFiber
+  00032041   217 DeleteFileA
+  00039ACD   218 DeleteFileW
+  00007079   219 DeviceIoControl
+  000260B0   220 DisableThreadLibraryCalls
+  00039ACD   221 DisconnectNamedPipe
+  00031635   222 DosDateTimeToFileTime
+  000313A3   223 DuplicateHandle
+  00039AE8   224 EndUpdateResourceA
+  00039AE8   225 EndUpdateResourceW
+  0000BAEE   226 EnterCriticalSection
+  000478FD   227 EnumCalendarInfoA
+  00047917   228 EnumCalendarInfoExA
+  00039B1E   229 EnumCalendarInfoExW
+  00039B1E   230 EnumCalendarInfoW
+  00047A24   231 EnumDateFormatsA
+  00047A3A   232 EnumDateFormatsExA
+  00039B03   233 EnumDateFormatsExW
+  00039B03   234 EnumDateFormatsW
+  00039B1E   235 EnumLanguageGroupLocalesA
+  00039B1E   236 EnumLanguageGroupLocalesW
+  00031B17   237 EnumResourceLanguagesA
+  00031BCD   238 EnumResourceLanguagesW
+  00031AE8   239 EnumResourceNamesA
+  00031B9D   240 EnumResourceNamesW
+  00030184   241 EnumResourceTypesA
+  0003084B   242 EnumResourceTypesW
+  00047776   243 EnumSystemCodePagesA
+  00039AE8   244 EnumSystemCodePagesW
+  00048BCD   245 EnumSystemGeoID
+  00039B03   246 EnumSystemLanguageGroupsA
+  00039B03   247 EnumSystemLanguageGroupsW
+  000476BE   248 EnumSystemLocalesA
+  00039AE8   249 EnumSystemLocalesW
+  00047931   250 EnumTimeFormatsA
+  00039B03   251 EnumTimeFormatsW
+  00039B15   252 EnumUILanguagesA
+  00039B03   253 EnumUILanguagesW
+  00039B15   254 EraseTape
+  00038064   255 EscapeCommFunction
+  0001D97D   256 ExitProcess
+  0001A382   257 ExitThread
+  00031A4B   258 ExpandEnvironmentStringsA
+  00039B03   259 ExpandEnvironmentStringsW
+  00002BA3   260 FT_Exit0
+  00002BE9   261 FT_Exit12
+  00002C01   262 FT_Exit16
+  00002C19   263 FT_Exit20
+  00002C31   264 FT_Exit24
+  00002C49   265 FT_Exit28
+  00002C61   266 FT_Exit32
+  00002C79   267 FT_Exit36
+  00002BB9   268 FT_Exit4
+  00002C91   269 FT_Exit40
+  00002CA9   270 FT_Exit44
+  00002CC1   271 FT_Exit48
+  00002CD9   272 FT_Exit52
+  00002CF1   273 FT_Exit56
+  00002BD1   274 FT_Exit8
+  00002665   275 FT_Prolog
+  00002938   276 FT_Thunk
+  000319B3   277 FatalAppExitA
+  00039AE8   278 FatalAppExitW
+  000253A1   279 FatalExit
+  000071F9   280 FileTimeToDosDateTime
+  00007EBB   281 FileTimeToLocalFileTime
+  00007F13   282 FileTimeToSystemTime
+  00033490   283 FillConsoleOutputAttribute
+  000333F6   284 FillConsoleOutputCharacterA
+  00039B30   285 FillConsoleOutputCharacterW
+  00031C9A   286 FindAtomA
+  00039ACD   287 FindAtomW
+  00006498   288 FindClose
+  0000E1F6   289 FindCloseChangeNotification
+  00007CA8   290 FindFirstChangeNotificationA
+  00039B03   291 FindFirstChangeNotificationW
+  00007B2F   292 FindFirstFileA
+  0002DA9A   293 FindFirstFileExA
+  00039B54   294 FindFirstFileExW
+  00039AFA   295 FindFirstFileW
+  0001B3AC   296 FindNextChangeNotification
+  00007B91   297 FindNextFileA
+  00039AE8   298 FindNextFileW
+  00010BC3   299 FindResourceA
+  00031AA6   300 FindResourceExA
+  00031B59   301 FindResourceExW
+  0003076A   302 FindResourceW
+  0003352A   303 FlushConsoleInputBuffer
+  0002CF37   304 FlushFileBuffers
+  00025418   305 FlushInstructionCache
+  0002B042   306 FlushViewOfFile
+  00039B30   307 FoldStringA
+  00039B30   308 FoldStringW
+  0001C12B   309 FormatMessageA
+  00039B5D   310 FormatMessageW
+  000339C6   311 FreeConsole
+  00026577   312 FreeEnvironmentStringsA
+  00039ACD   313 FreeEnvironmentStringsW
+  00023D6A   314 FreeLSCallback
+  0001E559   315 FreeLibrary
+  0002609B   316 FreeLibraryAndExitThread
+  00023433   317 FreeResource
+  00023DA5   318 FreeSLCallback
+  00032BB0   319 GenerateConsoleCtrlEvent
+  0001E5DC   320 GetACP
+  00031CC9   321 GetAtomNameA
+  00039B03   322 GetAtomNameW
+  00039AE8   323 GetBinaryType
+  00039AE8   324 GetBinaryTypeA
+  00039AE8   325 GetBinaryTypeW
+  00007DD0   326 GetCPInfo
+  00007DF3   327 GetCPInfoExA
+  00039B03   328 GetCPInfoExW
+  00046B80   329 GetCalendarInfoA
+  00039B42   330 GetCalendarInfoW
+  00038D35   331 GetCommConfig
+  00031447   332 GetCommMask
+  00031489   333 GetCommModemStatus
+  00031466   334 GetCommProperties
+  000314A8   335 GetCommState
+  000314CB   336 GetCommTimeouts
+  0001CA5E   337 GetCommandLineA
+  00026514   338 GetCommandLineW
+  00039AFA   339 GetCompressedFileSizeA
+  00039AFA   340 GetCompressedFileSizeW
+  00007CC8   341 GetComputerNameA
+  00039AE8   342 GetComputerNameW
+  0003667A   343 GetConsoleCP
+  000336EF   344 GetConsoleCursorInfo
+  00032DAC   345 GetConsoleMode
+  0003669B   346 GetConsoleOutputCP
+  00032ED5   347 GetConsoleScreenBufferInfo
+  00032F1F   348 GetConsoleTitleA
+  00039AE8   349 GetConsoleTitleW
+  00032313   350 GetCurrencyFormatA
+  00039B42   351 GetCurrencyFormatW
+  000079AD   352 GetCurrentDirectoryA
+  00039AE8   353 GetCurrentDirectoryW
+  000268B5   354 GetCurrentProcess
+  00014D68   355 GetCurrentProcessId
+  00025FEF   356 GetCurrentThread
+  00011585   357 GetCurrentThreadId
+  00007F71   358 GetDateFormatA
+  00039B42   359 GetDateFormatW
+  0002ED47   360 GetDaylightFlag
+  00038BBB   361 GetDefaultCommConfigA
+  00039B03   362 GetDefaultCommConfigW
+  0003225D   363 GetDevicePowerState
+  000079E7   364 GetDiskFreeSpaceA
+  00007A27   365 GetDiskFreeSpaceExA
+  00039B1E   366 GetDiskFreeSpaceExW
+  00039B30   367 GetDiskFreeSpaceW
+  000078EF   368 GetDriveTypeA
+  00039ACD   369 GetDriveTypeW
+  0001B03D   370 GetEnvironmentStrings
+  0001B03D   371 GetEnvironmentStringsA
+  00039AC4   372 GetEnvironmentStringsW
+  000319DE   373 GetEnvironmentVariableA
+  00039B03   374 GetEnvironmentVariableW
+  0002B90C   375 GetErrorMode
+  000310FB   376 GetExitCodeProcess
+  00031191   377 GetExitCodeThread
+  00007B08   378 GetFileAttributesA
+  0002D985   379 GetFileAttributesExA
+  00039B03   380 GetFileAttributesExW
+  00039ADF   381 GetFileAttributesW
+  0002CFD2   382 GetFileInformationByHandle
+  00006F89   383 GetFileSize
+  00007134   384 GetFileTime
+  00005859   385 GetFileType
+  00007A68   386 GetFullPathNameA
+  00039B1E   387 GetFullPathNameW
+  00048B6B   388 GetGeoInfoA
+  0004873F   389 GetGeoInfoW
+  000369B6   390 GetHandleContext
+  00039AE8   391 GetHandleInformation
+  00023CC1   392 GetLSCallbackTarget
+  00023C9A   393 GetLSCallbackTemplate
+  00033884   394 GetLargestConsoleWindowSize
+  0001558E   395 GetLastError
+  000071AC   396 GetLocalTime
+  0001224E   397 GetLocaleInfoA
+  00039B1E   398 GetLocaleInfoW
+  00031954   399 GetLogicalDriveStringsA
+  00039AE8   400 GetLogicalDriveStringsW
+  00004B24   401 GetLogicalDrives
+  00031337   402 GetLongPathNameA
+  00039B03   403 GetLongPathNameW
+  000317B6   404 GetMailslotInfo
+  000076CF   405 GetModuleFileNameA
+  00039B03   406 GetModuleFileNameW
+  000076EE   407 GetModuleHandleA
+  00039ACD   408 GetModuleHandleW
+  00036C5B   409 GetNamedPipeHandleStateA
+  00039B5D   410 GetNamedPipeHandleStateW
+  000316B9   411 GetNamedPipeInfo
+  00007E19   412 GetNumberFormatA
+  00039B42   413 GetNumberFormatW
+  0003357F   414 GetNumberOfConsoleInputEvents
+  0003373D   415 GetNumberOfConsoleMouseButtons
+  000214B0   416 GetOEMCP
+  000311D3   417 GetOverlappedResult
+  0002E9FF   418 GetPriorityClass
+  00030ECF   419 GetPrivateProfileIntA
+  00039B1E   420 GetPrivateProfileIntW
+  00031D77   421 GetPrivateProfileSectionA
+  00031EC5   422 GetPrivateProfileSectionNamesA
+  00039B03   423 GetPrivateProfileSectionNamesW
+  00039B1E   424 GetPrivateProfileSectionW
+  0000781C   425 GetPrivateProfileStringA
+  00039B42   426 GetPrivateProfileStringW
+  00031E10   427 GetPrivateProfileStructA
+  00039B30   428 GetPrivateProfileStructW
+  00006D80   429 GetProcAddress
+  0003227C   430 GetProcessAffinityMask
+  00021362   431 GetProcessFlags
+  0001CF67   432 GetProcessHeap
+  00039AE8   433 GetProcessHeaps
+  00039AE8   434 GetProcessPriorityBoost
+  00039AE8   435 GetProcessShutdownParameters
+  00039B30   436 GetProcessTimes
+  000268BB   437 GetProcessVersion
+  00039B03   438 GetProcessWorkingSetSize
+  0002B8E3   439 GetProductName
+  00030E9D   440 GetProfileIntA
+  00039B03   441 GetProfileIntW
+  00031CFD   442 GetProfileSectionA
+  00039B03   443 GetProfileSectionW
+  000077A8   444 GetProfileStringA
+  00039B30   445 GetProfileStringW
+  0002FD03   446 GetQueuedCompletionStatus
+  00023D0C   447 GetSLCallbackTarget
+  00023CE4   448 GetSLCallbackTemplate
+  000312EE   449 GetShortPathNameA
+  00039B03   450 GetShortPathNameW
+  00007785   451 GetStartupInfoA
+  00039ACD   452 GetStartupInfoW
+  00005748   453 GetStdHandle
+  00007D3F   454 GetStringTypeA
+  000322A2   455 GetStringTypeExA
+  00039B30   456 GetStringTypeExW
+  00039B1E   457 GetStringTypeW
+  0004470F   458 GetSystemDefaultLCID
+  000446F3   459 GetSystemDefaultLangID
+  00044715   460 GetSystemDefaultUILanguage
+  0000791A   461 GetSystemDirectoryA
+  00039AE8   462 GetSystemDirectoryW
+  00026978   463 GetSystemInfo
+  0003223A   464 GetSystemPowerStatus
+  0003155A   465 GetSystemTime
+  00039B03   466 GetSystemTimeAdjustment
+  00031380   467 GetSystemTimeAsFileTime
+  00039B27   468 GetTapeParameters
+  00039B39   469 GetTapePosition
+  00039AD6   470 GetTapeStatus
+  00031F3E   471 GetTempFileNameA
+  00039B1E   472 GetTempFileNameW
+  00031F04   473 GetTempPathA
+  00039AE8   474 GetTempPathW
+  00031285   475 GetThreadContext
+  0002F4FD   476 GetThreadLocale
+  0002E9C6   477 GetThreadPriority
+  00039AE8   478 GetThreadPriorityBoost
+  000311B0   479 GetThreadSelectorEntry
+  00039B30   480 GetThreadTimes
+  00006A10   481 GetTickCount
+  00007D09   482 GetTimeFormatA
+  00039B42   483 GetTimeFormatW
+  000315BF   484 GetTimeZoneInformation
+  0000BC96   485 GetUserDefaultLCID
+  000446FA   486 GetUserDefaultLangID
+  0004471C   487 GetUserDefaultUILanguage
+  00048C3A   488 GetUserGeoID
+  000233FD   489 GetVersion
+  00021ACA   490 GetVersionExA
+  00039ACD   491 GetVersionExW
+  00007C1E   492 GetVolumeInformationA
+  00039B66   493 GetVolumeInformationW
+  00007950   494 GetWindowsDirectoryA
+  00039AE8   495 GetWindowsDirectoryW
+  000310D5   496 GetWriteWatch
+  00007463   497 GlobalAddAtomA
+  00039ACD   498 GlobalAddAtomW
+  0000488C   499 GlobalAlloc
+  000048BF   500 GlobalCompact
+  0002B9D7   501 GlobalDeleteAtom
+  00031C11   502 GlobalFindAtomA
+  00039ACD   503 GlobalFindAtomW
+  00030FBB   504 GlobalFix
+  00030F99   505 GlobalFlags
+  00006E15   506 GlobalFree
+  00031C40   507 GlobalGetAtomNameA
+  00039B03   508 GlobalGetAtomNameW
+  00006DD1   509 GlobalHandle
+  00006DAF   510 GlobalLock
+  00031009   511 GlobalMemoryStatus
+  00030F55   512 GlobalReAlloc
+  00030F77   513 GlobalSize
+  000048A0   514 GlobalUnWire
+  00030FE2   515 GlobalUnfix
+  00006DF3   516 GlobalUnlock
+  0000489B   517 GlobalWire
+  0003CBD6   518 Heap32First
+  0003CAEB   519 Heap32ListFirst
+  0003CB55   520 Heap32ListNext
+  0003CC67   521 Heap32Next
+  00006E9C   522 HeapAlloc
+  00039AE8   523 HeapCompact
+  00019063   524 HeapCreate
+  00006E7B   525 HeapDestroy
+  00006EE8   526 HeapFree
+  00039ACD   527 HeapLock
+  00006EBD   528 HeapReAlloc
+  00039AFA   529 HeapSetFlags
+  00006F13   530 HeapSize
+  00039ACD   531 HeapUnlock
+  00039B0C   532 HeapValidate
+  00039AE8   533 HeapWalk
+  0002BA26   534 InitAtomTable
+  00014606   535 InitializeCriticalSection
+  00029D34   536 InitializeCriticalSectionAndSpinCount
+  0000436D   537 InterlockedCompareExchange
+  00004339   538 InterlockedDecrement
+  00004360   539 InterlockedExchange
+  000043A2   540 InterlockedExchangeAdd
+  00004310   541 InterlockedIncrement
+  00044723   542 InvalidateNLSCache
+  0000CF79   543 IsBadCodePtr
+  0000BB2A   544 IsBadHugeReadPtr
+  0000A71F   545 IsBadHugeWritePtr
+  0000BB2A   546 IsBadReadPtr
+  0000BC1B   547 IsBadStringPtrA
+  0002DF9E   548 IsBadStringPtrW
+  0000A71F   549 IsBadWritePtr
+  0001B3F9   550 IsDBCSLeadByte
+  00048F4D   551 IsDBCSLeadByteEx
+  00024BE6   552 IsDebuggerPresent
+  00023C2D   553 IsLSCallback
+  00039ACD   554 IsProcessorFeaturePresent
+  00023C61   555 IsSLCallback
+  0002FB36   556 IsSystemResumeAutomatic
+  00048DD8   557 IsValidCodePage
+  00039AE8   558 IsValidLanguageGroup
+  000230A4   559 PulseEvent
+  00044528   560 IsValidLocale
+  000027B1   561 QT_Thunk
+  0000180A   562 K32Thk1632Epilog
+  000017E5   563 K32Thk1632Prolog
+  00039A20   564 K32_NtCreateFile
+  00039A53   565 K32_RtlNtStatusToDosError
+  00007D65   566 LCMapStringA
+  00039B42   567 LCMapStringW
+  0000BB13   568 LeaveCriticalSection
+  000076A8   569 LoadLibraryA
+  000217B9   570 LoadLibraryExA
+  00039B03   571 LoadLibraryExW
+  00039ACD   572 LoadLibraryW
+  000313C4   573 LoadModule
+  00010CBB   574 LoadResource
+  0000488C   575 LocalAlloc
+  0002A6D8   576 LocalCompact
+  00007EE7   577 LocalFileTimeToFileTime
+  0002A6EC   578 LocalFlags
+  000049A8   579 LocalFree
+  0003102C   580 LocalHandle
+  00030E7B   581 LocalLock
+  00006E37   582 LocalReAlloc
+  00031070   583 LocalShrink
+  00006E59   584 LocalSize
+  0003104E   585 LocalUnlock
+  0002CC44   586 LockFile
+  00039B42   587 LockFileEx
+  00023438   588 LockResource
+  00019470   589 MakeCriticalSectionGlobal
+  00001A1B   590 MapHInstLS
+  00001A16   591 MapHInstLS_PN
+  00001A43   592 MapHInstSL
+  00001A3C   593 MapHInstSL_PN
+  00001A94   594 MapHModuleLS
+  00001AA3   595 MapHModuleSL
+  00001F16   596 MapLS
+  00001AFC   597 MapSL
+  00001AB3   598 MapSLFix
+  00012231   599 MapViewOfFile
+  00012008   600 MapViewOfFileEx
+  0003CE89   601 Module32First
+  0003CEFC   602 Module32Next
+  00032090   603 MoveFileA
+  000320B8   604 MoveFileExA
+  00039B03   605 MoveFileExW
+  00039AE8   606 MoveFileW
+  0002384F   607 MulDiv
+  00007D83   608 MultiByteToWideChar
+  0004AA82   609 NotifyNLSUserCache
+  0000759E   610 OpenEventA
+  00039B03   611 OpenEventW
+  000317F2   612 OpenFile
+  0003192D   613 OpenFileMappingA
+  00039B03   614 OpenFileMappingW
+  000318E2   615 OpenMutexA
+  00039B03   616 OpenMutexW
+  000262D6   617 OpenProcess
+  00039AC4   618 OpenProfileUserMapping
+  0003190D   619 OpenSemaphoreA
+  00039B03   620 OpenSemaphoreW
+  00025E43   621 OpenThread
+  0002A358   622 OpenVxDHandle
+  00007626   623 OpenWaitableTimerA
+  00039B03   624 OpenWaitableTimerW
+  00031A7B   625 OutputDebugStringA
+  00039ACD   626 OutputDebugStringW
+  00032FF5   627 PeekConsoleInputA
+  00039B1E   628 PeekConsoleInputW
+  000316F5   629 PeekNamedPipe
+  00039B1E   630 PostQueuedCompletionStatus
+  00039B15   631 PrepareTape
+  0003CC73   632 Process32First
+  0003CCFB   633 Process32Next
+  000381EA   634 PurgeComm
+  0003200E   635 QueryDosDeviceA
+  00039B03   636 QueryDosDeviceW
+  00039AE8   637 QueryNumberOfEventLogRecords
+  00039AE8   638 QueryOldestEventLogRecord
+  00032173   639 QueryPerformanceCounter
+  00032196   640 QueryPerformanceFrequency
+  00026DF8   641 QueueUserAPC
+  0003111B   642 RaiseException
+  00032CF4   643 ReadConsoleA
+  00033041   644 ReadConsoleInputA
+  00039B1E   645 ReadConsoleInputW
+  00033775   646 ReadConsoleOutputA
+  0003335F   647 ReadConsoleOutputAttribute
+  000332C8   648 ReadConsoleOutputCharacterA
+  00039B30   649 ReadConsoleOutputCharacterW
+  00039B30   650 ReadConsoleOutputW
+  00039B30   651 ReadConsoleW
+  00039B66   652 ReadDirectoryChangesW
+  00007011   653 ReadFile
+  0003182E   654 ReadFileEx
+  00039B30   655 ReadFileScatter
+  00024EF7   656 ReadProcessMemory
+  0001E9D9   657 RegisterServiceProcess
+  0003B69E   658 RegisterSysMsgHandler
+  000153E3   659 ReinitializeCriticalSection
+  00023114   660 ReleaseMutex
+  00006F68   661 ReleaseSemaphore
+  00031FB4   662 RemoveDirectoryA
+  00039ACD   663 RemoveDirectoryW
+  0002F733   664 RequestDeviceWakeup
+  0002F66F   665 RequestWakeupLatency
+  000230DC   666 ResetEvent
+  0004AACA   667 ResetNLSUserInfoCache
+  0002A45B   668 ResetWriteWatch
+  00021450   669 ResumeThread
+  00030DC0   670 RtlFillMemory
+  00007E42   671 RtlMoveMemory
+  000187F9   672 RtlUnwind
+  00007E7F   673 RtlZeroMemory
+  00001E03   674 SMapLS
+  00001EBC   675 SMapLS_IP_EBP_12
+  00001EB2   676 SMapLS_IP_EBP_16
+  00001EAD   677 SMapLS_IP_EBP_20
+  00001EA8   678 SMapLS_IP_EBP_24
+  00001EA3   679 SMapLS_IP_EBP_28
+  00001E9E   680 SMapLS_IP_EBP_32
+  00001E99   681 SMapLS_IP_EBP_36
+  00001E94   682 SMapLS_IP_EBP_40
+  00001EB7   683 SMapLS_IP_EBP_8
+  00001E7F   684 SUnMapLS
+  00001E7C   685 SUnMapLS_IP_EBP_12
+  00001E72   686 SUnMapLS_IP_EBP_16
+  00001E6D   687 SUnMapLS_IP_EBP_20
+  00001E68   688 SUnMapLS_IP_EBP_24
+  00001E63   689 SUnMapLS_IP_EBP_28
+  00001E5E   690 SUnMapLS_IP_EBP_32
+  00001E59   691 SUnMapLS_IP_EBP_36
+  00001E54   692 SUnMapLS_IP_EBP_40
+  00001E77   693 SUnMapLS_IP_EBP_8
+  000337CB   694 ScrollConsoleScreenBufferA
+  00039B30   695 ScrollConsoleScreenBufferW
+  00007BB7   696 SearchPathA
+  00039B42   697 SearchPathW
+  00046F78   698 SetCalendarInfoA
+  00039B1E   699 SetCalendarInfoW
+  00038232   700 SetCommBreak
+  00038D76   701 SetCommConfig
+  00038240   702 SetCommMask
+  000314EE   703 SetCommState
+  0003150F   704 SetCommTimeouts
+  0003221A   705 SetComputerNameA
+  00039ACD   706 SetComputerNameW
+  00033169   707 SetConsoleActiveScreenBuffer
+  00039ACD   708 SetConsoleCP
+  00033199   709 SetConsoleCtrlHandler
+  00032E27   710 SetConsoleCursorInfo
+  00032E88   711 SetConsoleCursorPosition
+  00032D28   712 SetConsoleMode
+  00039ACD   713 SetConsoleOutputCP
+  00033823   714 SetConsoleScreenBufferSize
+  000335C1   715 SetConsoleTextAttribute
+  00032F6E   716 SetConsoleTitleA
+  00039ACD   717 SetConsoleTitleW
+  000338DF   718 SetConsoleWindowInfo
+  00039AE8   719 SetCriticalSectionSpinCount
+  00007986   720 SetCurrentDirectoryA
+  00039ACD   721 SetCurrentDirectoryW
+  0002ED57   722 SetDaylightFlag
+  00038C78   723 SetDefaultCommConfigA
+  00039B03   724 SetDefaultCommConfigW
+  0002CDE8   725 SetEndOfFile
+  00031A23   726 SetEnvironmentVariableA
+  00039AE8   727 SetEnvironmentVariableW
+  00014E7F   728 SetErrorMode
+  0002306C   729 SetEvent
+  00032C56   730 SetFileApisToANSI
+  00032C62   731 SetFileApisToOEM
+  00007AE8   732 SetFileAttributesA
+  00039AE8   733 SetFileAttributesW
+  00007113   734 SetFilePointer
+  00007173   735 SetFileTime
+  00036982   736 SetHandleContext
+  0002CC2C   737 SetHandleCount
+  00039B03   738 SetHandleInformation
+  00010173   739 SetLastError
+  0003159E   740 SetLocalTime
+  00044733   741 SetLocaleInfoA
+  00039B03   742 SetLocaleInfoW
+  000371DE   743 SetMailslotInfo
+  0002F98A   744 SetMessageWaitingIndicator
+  00031689   745 SetNamedPipeHandleState
+  0001FA03   746 SetPriorityClass
+  00039AE8   747 SetProcessAffinityMask
+  00039AE8   748 SetProcessPriorityBoost
+  00039AE8   749 SetProcessShutdownParameters
+  00039B03   750 SetProcessWorkingSetSize
+  0000578C   751 SetStdHandle
+  0002FBC0   752 SetSystemPowerState
+  0003157D   753 SetSystemTime
+  00039AE8   754 SetSystemTimeAdjustment
+  00039B15   755 SetTapeParameters
+  00039B4B   756 SetTapePosition
+  00026A68   757 SetThreadAffinityMask
+  000312A9   758 SetThreadContext
+  0002FABD   759 SetThreadExecutionState
+  00039AE8   760 SetThreadIdealProcessor
+  00039ACD   761 SetThreadLocale
+  0001F986   762 SetThreadPriority
+  00039AE8   763 SetThreadPriorityBoost
+  000315E5   764 SetTimeZoneInformation
+  0002E0A2   765 SetUnhandledExceptionFilter
+  00048CCA   766 SetUserGeoID
+  0003214B   767 SetVolumeLabelA
+  00039AE8   768 SetVolumeLabelW
+  00007651   769 SetWaitableTimer
+  00037FBE   770 SetupComm
+  00039B27   771 SignalObjectAndWait
+  0003B7FF   772 SignalSysMsgHandlers
+  00030100   773 SizeofResource
+  000231E5   774 Sleep
+  00018FFE   775 SleepEx
+  00026044   776 SuspendThread
+  00024B61   777 SwitchToFiber
+  00039AC4   778 SwitchToThread
+  00031609   779 SystemTimeToFileTime
+  00039B03   780 SystemTimeToTzSpecificLocalTime
+  0002633D   781 TerminateProcess
+  00025FF5   782 TerminateThread
+  0003CD98   783 Thread32First
+  0003CE05   784 Thread32Next
+  00002E96   785 ThunkConnect32
+  0001CA76   786 TlsAlloc
+  0001CA76   787 TlsAllocInternal
+  0002E81F   788 TlsFree
+  0002E81F   789 TlsFreeInternal
+  00024B35   790 TlsGetValue
+  00024B07   791 TlsSetValue
+  0003C4A8   792 Toolhelp32ReadProcessMemory
+  00031748   793 TransactNamedPipe
+  000382D0   794 TransmitCommChar
+  00039ACD   795 TryEnterCriticalSection
+  00023EF1   796 UTRegister
+  00023F1C   797 UTUnRegister
+  00001F22   798 UnMapLS
+  00001B89   799 UnMapSLFixArray
+  0002E180   800 UnhandledExceptionFilter
+  00021048   801 UninitializeCriticalSection
+  0002CCE0   802 UnlockFile
+  00039B30   803 UnlockFileEx
+  0001409E   804 UnmapViewOfFile
+  00039B42   805 UpdateResourceA
+  00039B42   806 UpdateResourceW
+  000237E3   807 VerLanguageNameA
+  00039B03   808 VerLanguageNameW
+  00010191   809 VirtualAlloc
+  00039B30   810 VirtualAllocEx
+  00014520   811 VirtualFree
+  00039B1E   812 VirtualFreeEx
+  00039AF1   813 VirtualLock
+  00031092   814 VirtualProtect
+  0002A470   815 VirtualProtectEx
+  000310B2   816 VirtualQuery
+  000156C6   817 VirtualQueryEx
+  0002A68E   818 VirtualUnlock
+  00031530   819 WaitCommEvent
+  000312CD   820 WaitForDebugEvent
+  0000C90D   821 WaitForMultipleObjects
+  00007512   822 WaitForMultipleObjectsEx
+  0000CA1E   823 WaitForSingleObject
+  0002318C   824 WaitForSingleObjectEx
+  00036A0B   825 WaitNamedPipeA
+  00039AE8   826 WaitNamedPipeW
+  00007DA1   827 WideCharToMultiByte
+  000313F4   828 WinExec
+  00032CB1   829 WriteConsoleA
+  0003360F   830 WriteConsoleInputA
+  00039B1E   831 WriteConsoleInputW
+  000331D5   832 WriteConsoleOutputA
+  0003365C   833 WriteConsoleOutputAttribute
+  0003322E   834 WriteConsoleOutputCharacterA
+  00039B30   835 WriteConsoleOutputCharacterW
+  00039B30   836 WriteConsoleOutputW
+  00039B30   837 WriteConsoleW
+  00006FA9   838 WriteFile
+  00031886   839 WriteFileEx
+  00039B30   840 WriteFileGather
+  00031DC7   841 WritePrivateProfileSectionA
+  00039B03   842 WritePrivateProfileSectionW
+  0000789B   843 WritePrivateProfileStringA
+  00039B1E   844 WritePrivateProfileStringW
+  00031E6F   845 WritePrivateProfileStructA
+  00039B30   846 WritePrivateProfileStructW
+  00024FE5   847 WriteProcessMemory
+  00031D3D   848 WriteProfileSectionA
+  00039AE8   849 WriteProfileSectionW
+  00030F0C   850 WriteProfileStringA
+  00039B03   851 WriteProfileStringW
+  00039B27   852 WriteTapemark
+  00043EA6   853 _DebugOut
+  00043F59   854 _DebugPrintf
+  000074BC   855 _hread
+  00030E27   856 _hwrite
+  0002BBAB   857 _lclose
+  00030DFD   858 _lcreat
+  0002BBBC   859 _llseek
+  00007492   860 _lopen
+  000074BC   861 _lread
+  00030E27   862 _lwrite
+  00043F59   863 dprintf
+  00007347   864 lstrcat
+  00007347   865 lstrcatA
+  000073F2   866 lstrcatW
+  0000725C   867 lstrcmp
+  0000725C   868 lstrcmpA
+  00039AE8   869 lstrcmpW
+  00007296   870 lstrcmpi
+  00007296   871 lstrcmpiA
+  00039AE8   872 lstrcmpiW
+  000072D0   873 lstrcpy
+  000072D0   874 lstrcpyA
+  000073B8   875 lstrcpyW
+  0000730A   876 lstrcpyn
+  0000730A   877 lstrcpynA
+  00039B03   878 lstrcpynW
+  00007381   879 lstrlen
+  00007381   880 lstrlenA
+  0000742C   881 lstrlenW
+
+Done dumping kernel32.dll
